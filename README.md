@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi, I'm Can 👋
 
-<!--
-**canerganis/canerganis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Materials Engineer** working where **artificial intelligence meets materials science**.
 
-Here are some ideas to get you started:
+Alongside engineering, I work as an **AI Trainer**, helping shape how AI models reason,
+explain and stay honest. I bring the same mindset to metallurgy: models should show where
+their numbers come from and how far they can be trusted.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚒️ What I'm building
+**[Metalliksa](https://github.com/canerganis/Metalliksa)** is a local research workstation
+for laser powder-bed fusion (LPBF) and metallurgy:
+- Thermal and melt-pool solvers for metal additive manufacturing
+- CALPHAD thermodynamics and kinetics
+- Corrosion and fatigue screening
+- A traceable evidence registry: every result is labelled as measured,
+  validated, calibrated, literature estimate or screening only
+
+### 🔬 Interests
+AI for materials discovery · additive manufacturing · computational thermodynamics ·
+evidence-first engineering
+
+### 🛠️ Stack
+
+**AI / ML:** PyTorch · torchvision · segmentation-models-pytorch · scikit-learn · ONNX / ONNX Runtime · OpenCV · Albumentations
+
+**Materials & scientific computing:** pycalphad · NumPy · SciPy · xarray · SymEngine · Pint · Matplotlib · SPPARKS
+
+**Frontend & visualization:** TypeScript · React · Zustand · Three.js (React Three Fiber) · D3 · Recharts · Plotly · Tailwind CSS · Vite
+
+**Backend & tooling:** Node.js · Express · Python · Pydantic · Prisma · Docker · ESLint
