@@ -1,4 +1,4 @@
-## Hi, I'm Can 👋
+## Hi, I'm Can 👋 muhammetcanerganis@gmail.com
 
 **Materials Engineer** working where **artificial intelligence meets materials science**.
 
